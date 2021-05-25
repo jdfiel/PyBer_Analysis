@@ -7,7 +7,7 @@ The purpose of the analysis is to create a summary of the differences in ride-sh
 ## Results
 
 #### Summary of PyBer Data
-![summary]()
+![summary](https://github.com/jdfiel/PyBer_Analysis/blob/main/Resources/PyBer_summary.png)
 
 * Total Rides
 
@@ -30,7 +30,7 @@ The Average Fare per Ride and Driver are unique amongst the PyBer Summary statis
 Looking at the graph, all city types tend to follow a similar trend throughout the year. Rural cities tend to start the year slow and spike around late February like Urban and Subrurban cities. Urban cities tend to taper off closer to the end of April
 
 #### Total Fare by City Type Comparison
-![graph]()
+![graph](https://github.com/jdfiel/PyBer_Analysis/blob/main/Resources/total_fare_graph.png)
 
 ## Summary
 
